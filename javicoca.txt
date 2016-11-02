@@ -4,3 +4,4 @@ Javier sigue la historia de Entornos haciendo commits sin parar.
 Al terminar con los commits Javi se pone ha crear una rama llamada RamaJavi.
 
 Al crear la rama vuelvo a hacer commits para poder seguir nuestra historia.
+Vuelvo ha hacer una rama llamada RamaJavi2 en esta rama hago un commit y seguimos estudiando entornos y desarrollo.
