@@ -2,3 +2,5 @@ Esta es la historia de dos chicos que estudiaban en el ies sonferrer un grado su
 
 Javier sigue la historia de Entornos haciendo commits sin parar.
 Al terminar con los commits Javi se pone ha crear una rama llamada RamaJavi.
+
+Al crear la rama vuelvo a hacer commits para poder seguir nuestra historia.
