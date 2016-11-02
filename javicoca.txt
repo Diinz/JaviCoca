@@ -1,1 +1,4 @@
 Esta es la historia de dos chicos que estudiaban en el ies sonferrer un grado superior de Desarrollo de aplicaciones web, junto a nuestro compañero Ramón, empezamos un historia para Entornos de desarrollo, en la que contamos nuestra experiencia en dichas clases.
+
+Javier sigue la historia de Entornos haciendo commits sin parar.
+Al terminar con los commits Javi se pone ha crear una rama llamada RamaJavi.
